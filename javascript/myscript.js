@@ -189,7 +189,7 @@ var cantho =document.querySelector('.main');
 cantho.insertAdjacentHTML('afterend', '<div class="author mt-5"><div class="row"><div class="col-12"><div class="me text-danger text-right"></div></div></div></div>');
 
 document.querySelector('.Description .modal-title').innerHTML ='Nhịp tim như vậy là vì ...';
-document.querySelector('.Description .modal-body').innerHTML = 'Đanggg nhớ một người nào đó..! =))  <i class="fas fa-heart"></i> ';
+document.querySelector('.Description .modal-body').innerHTML = 'Đanggg nhớ bé Khuê đó..! =))  <i class="fas fa-heart"></i> ';
 var author = document.querySelector('.author .me');author.style.opacity = "0.5";
 author.innerHTML = "Visit my Facebook ♥<a href='https://www.facebook.com/ThoConXinhXan.1401933'> L-LEADER <a>";
 author.style.opacity = "0";
